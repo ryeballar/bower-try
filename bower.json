@@ -10,5 +10,6 @@
     "try",
     "out"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "appPath": "main"
 }
