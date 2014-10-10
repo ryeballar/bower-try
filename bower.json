@@ -1,0 +1,14 @@
+{
+  "name": "bower-try",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ryeballar/bower-try",
+  "authors": [
+    "Ryan Eballar <ryeballar@gmail.com>"
+  ],
+  "description": "Trying out creating a private bower package",
+  "keywords": [
+    "try",
+    "out"
+  ],
+  "license": "MIT"
+}
