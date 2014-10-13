@@ -11,6 +11,7 @@
     "try",
     "out"
   ],
+  "ignore": ["*.html"],
   "license": "MIT",
   "appPath": "main"
 }
