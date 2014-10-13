@@ -11,7 +11,7 @@
     "try",
     "out"
   ],
-  "ignore": ["*.html"],
+  "ignore": ["*.html", "*Controller.js"],
   "license": "MIT",
   "appPath": "main"
 }
